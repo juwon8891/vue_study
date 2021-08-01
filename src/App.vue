@@ -135,6 +135,7 @@ export default {
   data: () => ({
      items: [
           { title: 'Dashboard', icon: 'mdi-view-dashboard', to:'/' },
+          { title: 'Grid System', icon: 'mdi-image', to:'/grid-system' }, 
           { title: 'Grid System', icon: 'mdi-image', to:'/grid-system' },
         ],
         right: null,
